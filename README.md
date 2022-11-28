@@ -9,6 +9,7 @@ My tools:
 + npm
 + MongoDB
 + SQLite 3
++ Webpack / Babel
 + React
 + Redux-toolkit
 + Express 
