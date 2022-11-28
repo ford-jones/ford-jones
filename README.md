@@ -9,13 +9,13 @@ My tools:
 + npm
 + MongoDB
 + SQLite 3
++ Browserify
 + Webpack / Babel
 + React
 + Redux-toolkit
 + Express 
 + BabylonJS
 + MulterJS
-+ Browserify
 + HTML5, CSS3, Object-orientated & functional Javascript. 
 
 <!---
