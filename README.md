@@ -13,9 +13,13 @@ My tools:
 + Webpack / Babel
 + React
 + Redux-toolkit
++ Multer
 + Express 
++ Superagent
++ Axios
++ Stripe payments
 + BabylonJS
-+ MulterJS
++ ThreeJS
 + HTML5, CSS3, Object-orientated & functional Javascript. 
 
 <!---
