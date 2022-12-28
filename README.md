@@ -20,7 +20,8 @@ My tools:
 + Stripe payments
 + BabylonJS
 + ThreeJS
-+ HTML5, CSS3, Object-orientated & functional Javascript. 
++ ElectronJS
++ HTML5, CSS3, Object-orientated & functional Javascript + Typescript. 
 
 <!---
 ford-jones/ford-jones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
