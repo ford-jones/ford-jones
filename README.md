@@ -5,4 +5,4 @@
 - ✨ I’m looking to collaborate on software and build cool projects.
 - 📫 Contact me here on github or at fordnicholasjones@gmail.com
 
-![image](https://github.com/user-attachments/assets/97c18bef-04bd-4fe1-93d1-d90b63d628a5)
+![image](https://github.com/user-attachments/assets/97c18bef-04bd-4fe1-93d1-d90b63d628a5 =500x200)
